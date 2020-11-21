@@ -1,4 +1,3 @@
-from flask_pymongo import PyMongo
 from flask_mongoengine import MongoEngine
 import mongoengine_goodjson as gj
 
